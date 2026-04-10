@@ -19,26 +19,7 @@ Garantit le plus court chemin
 
  Structure du projet
  
-Projet_Labyrinthe/
-│src/
-├── Cell.java               # Représentation d'une case
-├── Maze.java               # Structure du labyrinthe 
-├── MazeLoader.java         # Chargement / sauvegarde fichier
-├── MazeGenerator.java      # Génération aléatoire 
-├── MazeSolver.java         # Interface des algorithmes
-├── SolverResult.java       # Résultat d'un algorithme
-├── DFSSolver.java          # Algorithme DFS
-├── BFSSolver.java          # Algorithme BFS
-├── MazeDisplay.java        # Affichage console
-├── PerformanceComparator.java  # Comparaison DFS vs BFS
-├── MazeGUI.java            # Interface graphique (Swing)
-├── Main.java               # Point d'entrée
-│
-├── TEST/                   # Labyrinthes d'exemple
-│
-└── README.md
-
- Fonctionnalités
+Fonctionnalités
 ✔ Génération aléatoire de labyrinthes
 ✔ Chargement depuis fichier
 ✔ Résolution avec DFS et BFS
