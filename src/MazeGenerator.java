@@ -4,7 +4,7 @@ import java.util.*;
  * Génère aléatoirement un labyrinthe parfait (sans cycles) en utilisant
  * l'algorithme de Recursive Backtracker (DFS).
  *
- * @author Étudiant 1
+ * 
  */
 public class MazeGenerator {
 
