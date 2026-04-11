@@ -5,7 +5,7 @@ import java.util.List;
  * Représente le labyrinthe sous forme de matrice 2D de Cell.
  * Contient la grille, la position de départ et d'arrivée.
  *
- * @author Étudiant 1
+ * 
  */
 public class Maze {
 
