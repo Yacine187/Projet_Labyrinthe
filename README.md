@@ -28,22 +28,3 @@ Fonctionnalités
 ✔ Comparaison des performances
 ✔ Mesure du temps d'exécution
 
-Répartition du travail
-
-Ndeye Yacine Diallo : Structure & Gestion du labyrinthe
-Maze.java
-Cell.java
-MazeLoader.java
-MazeGenerator.java
-
-Amy collé Ngom : Algorithmes de résolution
-DFSSolver.java
-BFSSolver.java
-MazeSolver.java
-SolverResult.java
-
-Awa Oumoul Khairy Sall: Affichage & Interface
-MazeDisplay.java
-PerformanceComparator.java
-MazeGUI.java
-Main.java
